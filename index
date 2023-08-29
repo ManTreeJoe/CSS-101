@@ -1,0 +1,20 @@
+<html>
+  <head>
+    <title>Cool CSS Integrations</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+ 
+  <body>
+     <h1>Integrating CSS Methods</h1>
+    <hr>
+    
+    <h2>Internal CSS</h2>
+    <p>Please Dont use this method</p>
+    
+    <h2 style="color: green; font-size: 20px; text-decoration: underline">Inline CSS</h2>
+    <p>Avoid using this</p>
+    
+    <h2 class="external-css">External CSS</h2>
+    <p>This is the best way to rock, keep things organized and rolling</p>
+  </body>
+</html>
